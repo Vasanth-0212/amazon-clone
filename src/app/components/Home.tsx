@@ -41,7 +41,7 @@ const Home = () => {
             <div className="mySlides fade hidden">
                 <img src="/home3.png" style={{ width: "100%" }} />
             </div>
-            <div className="absolute bottom-[-200px] flex flex-wrap justify-between w-screen px-[50px]">
+            <div className="absolute bottom-[-200px] flex flex-row space-x-7 pl-[60px] px-[50px]">
                 <div className="h-[420px] w-[320px] bg-white mx-1 rounded-md border border-gray-300">
                     <div className="flex flex-col items-center">
                         <h1 className="text-2xl font-semibold p-5">Crafting treasures from tradition</h1>
